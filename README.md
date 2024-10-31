@@ -1,6 +1,3 @@
-Here’s a draft for your README file, designed to clarify the structure, purpose, and usage of each file in your repository. Feel free to provide any specific details you’d like included, or if you want additional explanations for any file!
-
----
 
 # KTB1 Biomanufacturing Hybrid Modeling Repository
 
@@ -71,9 +68,6 @@ This repository contains MATLAB scripts, Simulink models, and data files for pro
 
 Please feel free to submit issues, feature requests, or contributions. We welcome collaboration to improve the model and extend its applications in process monitoring and fault detection.
 
---- 
-
-If there’s anything more you’d like to add, such as installation requirements or specific usage instructions for individual scripts, let us know!
 Contact Person: 
 morebo@kt.dtu.dk
 Seso@kt.dtu.dk
