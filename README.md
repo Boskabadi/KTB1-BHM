@@ -71,3 +71,8 @@ Please feel free to submit issues, feature requests, or contributions. We welcom
 Contact Person: 
 morebo@kt.dtu.dk
 Seso@kt.dtu.dk
+
+## Refrences
+
+https://github.com/Boskabadi/KTB1
+https://doi.org/10.1016/j.compchemeng.2024.108770
