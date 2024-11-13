@@ -71,10 +71,10 @@ This repository contains MATLAB scripts, Simulink models, and data files for pro
 Please feel free to submit issues, feature requests, or contributions. We welcome collaboration to improve the model and extend its applications in process monitoring and fault detection.
 
 Contact Person: 
-morebo@kt.dtu.dk
-Seso@kt.dtu.dk
+- morebo@kt.dtu.dk
+- Seso@kt.dtu.dk
 
 ## Refrences
 
-https://github.com/Boskabadi/KTB1
-https://doi.org/10.1016/j.compchemeng.2024.108770
+- https://github.com/Boskabadi/KTB1
+- https://doi.org/10.1016/j.compchemeng.2024.108770
