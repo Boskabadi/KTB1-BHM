@@ -3,6 +3,8 @@
 
 This repository contains MATLAB scripts, Simulink models, and data files for process monitoring and fault detection using the **KTB1** simulator. This repository is designed for developing and implementing machine learning models to classify operational states in biomanufacturing processes, specifically using surrogate modeling and fault detection techniques.
 
+![image](https://github.com/user-attachments/assets/b64ca458-5169-4e71-91f0-577a6f99f4c4)
+
 ## Repository Structure
 
 - **MATLAB Scripts**: Machine learning model implementations, data classification scripts, and dataset preparation.
